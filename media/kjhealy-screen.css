@@ -195,6 +195,11 @@ th:empty {
 	display: none;
 }
 
+.second-column{
+	position: relative;
+	left: 50%;	
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
