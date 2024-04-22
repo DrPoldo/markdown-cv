@@ -14,16 +14,16 @@ Programmatore
 
 `da Giugno 2010`
 __Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__
-L'azienda è specializzata nell’ambito di sistemi ICT con particolare attenzione alla
-geo-localizzazione coprendo l’intero spettro dello sviluppo di un dispositivo: hardware,
-firmware e software (gestione remota).
-Il mio ruolo principale consiste nello sviluppo e gestione di diversi servizi di backend che
-devono interagire con periferiche remote di vario genere (per la maggior parte localizzatori
-satellittari) sviluppate internamente o anche di terza parti.
-Gestisco anche lo sviluppo di alcune app Android con focus sulla comunicazione via bluetooth
-e l’utilizzo di web-service.
-Per necessit`a aziendali interne ho sviluppato vari script per l’automazione di processi e la
-creazione di report e statistiche principalmente tramite powershell e python.
+L'azienda è specializzata nell’ambito di sistemi ICT con particolare attenzione alla  
+geo-localizzazione coprendo l’intero spettro dello sviluppo di un dispositivo: hardware,  
+firmware e software (gestione remota).  
+Il mio ruolo principale consiste nello sviluppo e gestione di diversi servizi di backend che  
+devono interagire con periferiche remote di vario genere (per la maggior parte localizzatori  
+satellittari) sviluppate internamente o anche di terza parti.  
+Gestisco anche lo sviluppo di alcune app Android con focus sulla comunicazione via bluetooth  
+e l’utilizzo di web-service.  
+Per necessit`a aziendali interne ho sviluppato vari script per l’automazione di processi e la  
+creazione di report e statistiche principalmente tramite powershell e python.  
 
 `Luglio - Settembre 2008`
 __Glaxo Smith Kline, Verona__
