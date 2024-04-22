@@ -66,7 +66,7 @@ Buono
 
 ## Conoscenze Informatiche
 
-``
+` `
 |Linguaggi|Esperienza|
 |---------|----------|
 |Java     |Molto Buona|
@@ -75,13 +75,13 @@ Buono
 |C        |Buona      |
 |Assembly |Base       |
 
-``
+` `
 |App      |Esperienza|
 |---------|----------|
 |Kotlin   |Molto Buona|
 |Android Studio|Molto buona|
 
-``
+` `
 |Database |Esperienza|
 |---------|----------|
 |Sql Server|Molto Buona|
@@ -89,14 +89,14 @@ Buono
 |Mysql     |Buona      |
 |PostgreSql|Buona      |
 
-``
+` `
 |Scripting|Esperienza|
 |---------|----------|
 |Powershell|Molto Buona|
 |Python   |Discreta  |
 |Bash     |Base      |
 
-``
+` `
 |Web      |Esperienza|
 |---------|----------|
 |JavaScript|Buona    |
