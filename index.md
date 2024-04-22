@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Leonardo Ciman CV
+title: Leonardo Ciman
 ---
 # Leonardo Ciman
-Programmatore
 
 <div id="webaddress">
 <a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
@@ -67,11 +66,13 @@ Buono
 ## Conoscenze Informatiche
 
 `Linguaggi`
-- C#       <progress value="100" max="100">70 %</progress>
-- C++      <progress value="100" max="100">70 %</progress>
-- Java     <progress value="75" max="100">70 %</progress>
-- C        <progress value="75" max="100">70 %</progress>
-- Assembly <progress value="25" max="100">70 %</progress>
+|         |                                               |
+|:--------|----------------------------------------------:|
+|C#       |<progress value="100" max="100">70 %</progress>|
+|C++      |<progress value="100" max="100">70 %</progress>|
+|Java     |<progress value="75" max="100">70 %</progress>|
+|C        |<progress value="75" max="100">70 %</progress>|
+|Assembly |<progress value="25" max="100">70 %</progress>|
 
 
 ` `
