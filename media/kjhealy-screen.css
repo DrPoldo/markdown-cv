@@ -43,8 +43,6 @@ q:before, q:after {
 	content: none;
 }
 table {
-	position: relative;
-	left: 33%;
 	border-collapse: collapse;
 	border-spacing: 0;
 }
@@ -188,7 +186,14 @@ strong {
 	display: none;
 }
 
+table {
+	position: relative;
+	left: 33%;
+}
 
+th:empty {
+	display: none;
+}
 
 /*
 @media only screen and (max-width: 480px) {
