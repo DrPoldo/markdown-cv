@@ -66,6 +66,14 @@ Buono
 
 ## Conoscenze Informatiche
 
+`Linguaggi`
+- C#       <progress value="100" max="100">70 %</progress>
+- C++      <progress value="100" max="100">70 %</progress>
+- Java     <progress value="75" max="100">70 %</progress>
+- C        <progress value="75" max="100">70 %</progress>
+- Assembly <progress value="25" max="100">70 %</progress>
+
+
 ` `
 |Linguaggi|Esperienza|
 |---------|----------|
