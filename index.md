@@ -65,6 +65,7 @@ Buono
 
 ## Conoscenze Informatiche
 
+</p>
 `Linguaggi`  
 
 |         |                                               |
@@ -74,7 +75,7 @@ Buono
 |Java     |<progress value="75" max="100">70 %</progress>|
 |C        |<progress value="75" max="100">70 %</progress>|
 |Assembly |<progress value="25" max="100">70 %</progress>|
-
+</p>
 
 ` `
 |Linguaggi|Esperienza|
