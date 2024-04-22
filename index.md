@@ -13,7 +13,7 @@ Programmatore
 ## Esperienza Professionale
 
 `da Giugno 2010`
-__Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__
+__Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__  
 L'azienda è specializzata nell’ambito di sistemi ICT con particolare attenzione alla  
 geo-localizzazione coprendo l’intero spettro dello sviluppo di un dispositivo: hardware,  
 firmware e software (gestione remota).  
@@ -26,12 +26,12 @@ Per necessit`a aziendali interne ho sviluppato vari script per l’automazione d
 creazione di report e statistiche principalmente tramite powershell e python.  
 
 `Luglio - Settembre 2008`
-__Glaxo Smith Kline, Verona__
+__Glaxo Smith Kline, Verona__  
 Stage con l’obiettivo di creare un set di test automatici (tramite Quick Test Professional)
 per la verifica di un software sviluppato internamente.
 
 `Febbraio - Marzo 2005`
-__Intesys s.r.l. , Verona__
+__Intesys s.r.l. , Verona__  
 Contratto a progetto per lo sviluppo di un webservice in ambito ospedaliero tramite
 l’utilizzo del framework Apache Axis.
 
@@ -66,6 +66,7 @@ Buono
 
 ## Conoscenze Informatiche
 
+``
 |Linguaggi|Esperienza|
 |---------|----------|
 |Java     |Molto Buona|
@@ -74,11 +75,13 @@ Buono
 |C        |Buona      |
 |Assembly |Base       |
 
+``
 |App      |Esperienza|
 |---------|----------|
 |Kotlin   |Molto Buona|
 |Android Studio|Molto buona|
 
+``
 |Database |Esperienza|
 |---------|----------|
 |Sql Server|Molto Buona|
@@ -86,12 +89,14 @@ Buono
 |Mysql     |Buona      |
 |PostgreSql|Buona      |
 
+``
 |Scripting|Esperienza|
 |---------|----------|
 |Powershell|Molto Buona|
 |Python   |Discreta  |
 |Bash     |Base      |
 
+``
 |Web      |Esperienza|
 |---------|----------|
 |JavaScript|Buona    |
