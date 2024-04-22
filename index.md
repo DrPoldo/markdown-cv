@@ -66,7 +66,7 @@ Buono
 ## Conoscenze Informatiche
 
 <div class="row">
-  <div class="column">
+  <div class="column" markdown="1">
     
 |Linguaggi|Esperienza|
 |:--------|----------------------------------------------:|
@@ -77,7 +77,7 @@ Buono
 |Assembly |<progress value="25" max="100">70 %</progress>|
     
   </div>
-  <div class="column">
+  <div class="column" markdown="1">
     
 |Linguaggi|Esperienza|
 |---------|----------|
