@@ -3,84 +3,101 @@ layout: cv
 title: Leonardo Ciman CV
 ---
 # Leonardo Ciman
-Programmer.
+Programmatore
 
 <div id="webaddress">
 <a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
 </div>
 
 
-## Currently
+## Esperienza Professionale
+`da Giugno 2010`
+__Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__
+L'azienda è specializzata nell’ambito di sistemi ICT con particolare attenzione alla
+geo-localizzazione coprendo l’intero spettro dello sviluppo di un dispositivo: hardware,
+firmware e software (gestione remota).
+Il mio ruolo principale consiste nello sviluppo e gestione di diversi servizi di backend che
+devono interagire con periferiche remote di vario genere (per la maggior parte localizzatori
+satellittari) sviluppate internamente o anche di terza parti.
+Gestisco anche lo sviluppo di alcune app Android con focus sulla comunicazione via bluetooth
+e l’utilizzo di web-service.
+Per necessit`a aziendali interne ho sviluppato vari script per l’automazione di processi e la
+creazione di report e statistiche principalmente tramite powershell e python.
 
-Lavoro presso Satelicom s.r.l.
+`Luglio - Settembre 2008`
+__Glaxo Smith Kline, Verona__
+Stage con l’obiettivo di creare un set di test automatici (tramite Quick Test Professional)
+per la verifica di un software sviluppato internamente.
 
-### Specialized in
+`Febbraio - Marzo 2005`
+__Intesys s.r.l. , Verona__
+Contratto a progetto per lo sviluppo di un webservice in ambito ospedaliero tramite
+l’utilizzo del framework Apache Axis.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Luglio - Ottobre 2004`
+__Intesys s.r.l. , Verona__
+Stage come programmatore Java.
 
+## Istruzione e Formazione
 
-### Research interests
+`Marzo 2010`
+__Laurea Magistrale in Informatica__
+- Università di Verona
+- Tesi: Development of a platform for security protocols emulation.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Maggio - Novembre 2006`
+__IELTS English Course__
+- Castle Schoool of English(Brighton, Inghilterra)
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Marzo 2006`
+__Laurea Triennale in Informatica__
+- Università di Verona
+- Tesi: Axis web-services design and development.
 
 
-## Occupation
+## Lingue
+`Italiano`
+Madrelingua
+`Inglese`
+Buono
 
-`1600`
-__Royal Mint__, London
+## Conoscenze Informatiche
+|Linguaggi|Esperienza|
+|---------|----------|
+|Java     |Molto Buona|
+|C#       |Molto Buona|
+|C++      |Molto Buona|
+|C        |Buona      |
+|Assembly |Base       |
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+|App      |Esperienza|
+|---------|----------|
+|Kotlin   |Molto Buona|
+|Android Studio|Molto buona|
 
+|Database |Esperienza|
+|---------|----------|
+|Sql Server|Molto Buona|
+|Sqlite    |Molto Buona|
+|Mysql     |Buona      |
+|PostgreSql|Buona      |
+
+|Scripting|Esperienza|
+|---------|----------|
+|Powershell|Molto Buona|
+|Python   |Discreta  |
+|Bash     |Base      |
+
+|Web      |Esperienza|
+|---------|----------|
+|JavaScript|Buona    |
+|HTML     |Buona     |
+|XML      |Buona     |
+|CSS      |Buona     |
+|PHP      |Discreta  |
+
+## Interessi
 
 
 <!-- ### Footer
