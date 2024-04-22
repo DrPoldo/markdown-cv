@@ -43,6 +43,8 @@ q:before, q:after {
 	content: none;
 }
 table {
+	position: relative;
+	left: 33%;
 	border-collapse: collapse;
 	border-spacing: 0;
 }
