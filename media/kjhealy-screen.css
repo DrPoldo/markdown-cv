@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 85%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -190,6 +190,10 @@ th:empty {
 	display: none;
 }
 
+th{
+	font-weight: bold;
+}
+
 td{
 	padding-right: 5px;
 }
@@ -203,6 +207,8 @@ td{
 	position: relative;
 	left: 33%;	
 	display: flex;
+	width: 40%;
+  	min-width: 60em;
 }
 
 .column {
