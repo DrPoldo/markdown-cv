@@ -18,7 +18,7 @@ geo-localizzazione coprendo l’intero spettro dello sviluppo di un dispositivo:
 firmware e software (gestione remota).  
 Il mio ruolo principale consiste nello sviluppo e gestione di diversi servizi di backend che  
 devono interagire con periferiche remote di vario genere (per la maggior parte localizzatori  
-satellittari) sviluppate internamente o anche di terza parti.  
+satellittari) sviluppate internamente o anche di terze parti.  
 Gestisco anche lo sviluppo di alcune app Android con focus sulla comunicazione via bluetooth  
 e l’utilizzo di web-service.  
 Per necessit`a aziendali interne ho sviluppato vari script per l’automazione di processi e la  
@@ -26,7 +26,7 @@ creazione di report e statistiche principalmente tramite powershell e python.
 
 `Luglio - Settembre 2008`
 __Glaxo Smith Kline, Verona__  
-Stage con l’obiettivo di creare un set di test automatici (tramite Quick Test Professional)
+Stage con l’obiettivo di creare un set di test automatici (tramite Quick Test Professional)  
 per la verifica di un software sviluppato internamente.
 
 `Febbraio - Marzo 2005`
@@ -65,7 +65,8 @@ Buono
 
 ## Conoscenze Informatiche
 
-`Linguaggi`
+`Linguaggi`  
+
 |         |                                               |
 |:--------|----------------------------------------------:|
 |C#       |<progress value="100" max="100">70 %</progress>|
