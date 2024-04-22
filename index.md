@@ -65,6 +65,9 @@ Buono
 
 ## Conoscenze Informatiche
 
+<div class="row">
+  <div class="column">
+    
 |Linguaggi|Esperienza|
 |:--------|----------------------------------------------:|
 |C#       |<progress value="100" max="100">70 %</progress>|
@@ -72,7 +75,10 @@ Buono
 |Java     |<progress value="75" max="100">70 %</progress>|
 |C        |<progress value="75" max="100">70 %</progress>|
 |Assembly |<progress value="25" max="100">70 %</progress>|
-
+    
+  </div>
+  <div class="column">
+    
 |Linguaggi|Esperienza|
 |---------|----------|
 |Java     |Molto Buona|
@@ -80,7 +86,9 @@ Buono
 |C++      |Molto Buona|
 |C        |Buona      |
 |Assembly |Base       |
-{: .second-column}
+    
+  </div>
+</div>
 
 |App      |Esperienza|
 |---------|----------|
