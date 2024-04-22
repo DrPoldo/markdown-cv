@@ -11,6 +11,7 @@ Programmatore
 
 
 ## Esperienza Professionale
+
 `da Giugno 2010`
 __Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__
 L'azienda è specializzata nell’ambito di sistemi ICT con particolare attenzione alla
@@ -56,12 +57,15 @@ __Laurea Triennale in Informatica__
 
 
 ## Lingue
+
 `Italiano`
 Madrelingua
+
 `Inglese`
 Buono
 
 ## Conoscenze Informatiche
+
 |Linguaggi|Esperienza|
 |---------|----------|
 |Java     |Molto Buona|
@@ -69,7 +73,6 @@ Buono
 |C++      |Molto Buona|
 |C        |Buona      |
 |Assembly |Base       |
-
 
 |App      |Esperienza|
 |---------|----------|
