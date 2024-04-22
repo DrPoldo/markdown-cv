@@ -65,9 +65,7 @@ Buono
 
 ## Conoscenze Informatiche
 
-`Linguaggi`
-
-|         |                                               |
+|Linguaggi|Esperienza|
 |:--------|----------------------------------------------:|
 |C#       |<progress value="100" max="100">70 %</progress>|
 |C++      |<progress value="100" max="100">70 %</progress>|
@@ -75,8 +73,6 @@ Buono
 |C        |<progress value="75" max="100">70 %</progress>|
 |Assembly |<progress value="25" max="100">70 %</progress>|
 
-
-` `
 |Linguaggi|Esperienza|
 |---------|----------|
 |Java     |Molto Buona|
@@ -84,14 +80,13 @@ Buono
 |C++      |Molto Buona|
 |C        |Buona      |
 |Assembly |Base       |
+{: .second-column}
 
-` `
 |App      |Esperienza|
 |---------|----------|
 |Kotlin   |Molto Buona|
 |Android Studio|Molto buona|
 
-` `
 |Database |Esperienza|
 |---------|----------|
 |Sql Server|Molto Buona|
@@ -99,14 +94,12 @@ Buono
 |Mysql     |Buona      |
 |PostgreSql|Buona      |
 
-` `
 |Scripting|Esperienza|
 |---------|----------|
 |Powershell|Molto Buona|
 |Python   |Discreta  |
 |Bash     |Base      |
 
-` `
 |Web      |Esperienza|
 |---------|----------|
 |JavaScript|Buona    |
