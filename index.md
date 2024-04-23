@@ -19,7 +19,7 @@ title: Leonardo Ciman
   </div>
 </div>
 
-![foto profilo](/cv.jpg){: .profile-photo}
+![foto profilo](/cv_35x45mm.jpg){: .profile-photo}
 
 ## Esperienza Professionale
 
