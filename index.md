@@ -66,10 +66,10 @@ __Laurea Triennale in Informatica__
 
 ## Conoscenze Linguistiche
 
-|Lingua  |Scritto    | Parlato|
-|:--------|-----------:|--------:|
-|Italiano|Madrelingua|Madrelingua|
-|Inglese|Buono|Discreto|
+|Lingua   |Scritto     | Parlato   |
+|:--------|:-----------|:----------|
+|Italiano |Madrelingua |Madrelingua|
+|Inglese  |Buono       |Discreto   |
 {: .content}
 
 ## Conoscenze Informatiche
