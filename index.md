@@ -8,7 +8,7 @@ title: Leonardo Ciman
 <a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
 </div>
 
-<div class="row">
+<div class="short-row">
   <div class="column" markdown="1">
     - Via Cengio 39
     - Vicenza 36100 (VI)
@@ -18,6 +18,8 @@ title: Leonardo Ciman
     - 28 Giugno 1982
   </div>
 </div>
+
+![foto profilo](/cv.jpg){: .profile-photo}
 
 ## Esperienza Professionale
 
@@ -31,7 +33,7 @@ devono interagire con periferiche remote di vario genere (per la maggior parte l
 satellittari) sviluppate internamente o anche di terze parti.  
 Gestisco anche lo sviluppo di alcune app Android con focus sulla comunicazione via bluetooth  
 e l’utilizzo di web-service.  
-Per necessit`a aziendali interne ho sviluppato vari script per l’automazione di processi e la  
+Per necessità aziendali interne ho sviluppato vari script per l’automazione di processi e la  
 creazione di report e statistiche principalmente tramite powershell e python.  
 
 `Luglio - Settembre 2008`
@@ -52,8 +54,9 @@ Stage come programmatore Java.
 
 `Marzo 2010`
 __Laurea Magistrale in Informatica__
-- Università di Verona
-- Tesi: Development of a platform for security protocols emulation.
+- Università degli Studi di Verona
+- Tesi: Sviluppo e progettazione di una piattaforma per
+l'emulazione di protocolli di sicurezza.
 
 `Maggio - Novembre 2006`
 __IELTS English Course__
@@ -61,8 +64,8 @@ __IELTS English Course__
 
 `Marzo 2006`
 __Laurea Triennale in Informatica__
-- Università di Verona
-- Tesi: Axis web-services design and development.
+- Università degli Studi di Verona
+- Tesi: Progettazione e sviluppo di web-services con Apache Axis.
 
 
 ## Lingue
@@ -116,10 +119,12 @@ Buono
 </div>
 
 ## Interessi
+Sono un amante degli sport. Pratico trail-running, snowboard e trekking ...
 
+I enjoy team sports. I love all mountain sports: snowboarding, trekking, skiing . . .
+The amazing landscapes encounterd during my mountain trips prompted me to take up photography. I’m
+currently attending a photography course to improve my skills.
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: May 2024 -->
 
 
