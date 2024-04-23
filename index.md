@@ -68,53 +68,40 @@ Buono
 <div class="row">
   <div class="column" markdown="1">
     
-|Linguaggi di sistema ||
-|:--------|----------------------------------------------:|
+|Linguaggi |                                               |
+|:--------|-----------------------------------------------:|
 |C#       |<progress value="100" max="100">100 %</progress>|
 |C++      |<progress value="100" max="100">100 %</progress>|
-|Java     |<progress value="75" max="100">75 %</progress>|
-|C        |<progress value="75" max="100">75 %</progress>|
-|Assembly |<progress value="25" max="100">25 %</progress>|
-    
+|Java     |<progress value="75" max="100">75 %</progress>  |
+|C        |<progress value="75" max="100">75 %</progress>  |
+|Assembly |<progress value="25" max="100">25 %</progress>  |
+|         |                                                |
+|__Sviluppo App__ |                                        |
+|Kotlin   |<progress value="100" max="100">100 %</progress>|
+|Android Studio|<progress value="100" max="100">100 %</progress>|    
+|         |                                                |
+|__Scripting__ |                                           |
+|Powershell|<progress value="100" max="100">100 %</progress>|
+|Python   |<progress value="50" max="100">50 %</progress>  |
+|Bash     |<progress value="25" max="100">25 %</progress>  |
+
   </div>
   <div class="column" markdown="1">
     
-|Sviluppo Web      ||
+|Sviluppo Web |                                           |
 |:--------|----------------------------------------------:|
 |JavaScript|<progress value="75" max="100">75 %</progress>|
 |HTML     |<progress value="75" max="100">75 %</progress>|
 |XML      |<progress value="75" max="100">75 %</progress>|
 |CSS      |<progress value="75" max="100">75 %</progress>|
 |PHP      |<progress value="50" max="100">50 %</progress>|
-    
-  </div>
-</div>
-
-<div class="row">
-  <div class="column" markdown="1">
-
-|Database ||
-|:--------|----------------------------------------------:|
+|         |                                              |
+|__Database__ |                                          |
 |Sql Server|<progress value="100" max="100">100 %</progress>|
 |Sqlite    |<progress value="100" max="100">100 %</progress>|
 |Mysql     |<progress value="75" max="100">75 %</progress>|
-|PostgreSql|<progress value="50" max="100">50 %</progress>|    
+|PostgreSql|<progress value="50" max="100">50 %</progress>|     
 
-
-|App      ||
-|:--------|----------------------------------------------:|
-|Kotlin   |<progress value="100" max="100">100 %</progress>|
-|Android Studio|<progress value="100" max="100">100 %</progress>|
-
-  </div>
-  <div class="column" markdown="1">
-  
-|Scripting ||
-|:--------|----------------------------------------------:|
-|Powershell|<progress value="100" max="100">100 %</progress>|
-|Python   |<progress value="50" max="100">50 %</progress>|
-|Bash     |<progress value="25" max="100">25 %</progress>|
-    
   </div>
 </div>
 
