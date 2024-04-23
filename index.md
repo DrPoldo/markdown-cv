@@ -66,6 +66,8 @@ __Laurea Triennale in Informatica__
 
 ## Lingue
 
+|        |           |
+|--------|-----------|
 |Italiano|Madrelingua|
 |Inglese|Buono|
 {: .content}
