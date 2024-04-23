@@ -8,6 +8,16 @@ title: Leonardo Ciman
 <a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
 </div>
 
+<div class="row">
+  <div class="column" markdown="1">
+    - Via Cengio 39
+    - Vicenza 36100 (VI)
+  </div>
+  <div class="column" markdown="1">
+    - Arzignano 
+    - 28 Giugno 1982
+  </div>
+</div>
 
 ## Esperienza Professionale
 
@@ -31,7 +41,7 @@ per la verifica di un software sviluppato internamente.
 
 `Febbraio - Marzo 2005`
 __Intesys s.r.l. , Verona__  
-Contratto a progetto per lo sviluppo di un webservice in ambito ospedaliero tramite
+Contratto a progetto per lo sviluppo di un webservice in ambito ospedaliero tramite  
 l’utilizzo del framework Apache Axis.
 
 `Luglio - Ottobre 2004`
