@@ -6,9 +6,8 @@ title: Leonardo Ciman
   <h1>Leonardo Ciman</h1>
   <img src="cv_35x45mm.jpg" class="profile-photo"/>
 </div>
-<div id="webaddress">
-<a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
-</div>    
+
+- E-mail: <leonardo.ciman@gmail.com>
 - Indirizzo: Via Cengio 39, Vicenza 36100 (VI)  
 - Data di nascita: 28 Giugno 1982  
 
