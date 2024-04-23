@@ -17,7 +17,7 @@ title: Leonardo Ciman
   </div>
 </div>
 
-## Esperienza Professionale
+## Esperienze Lavorative
 
 `da Giu 2010`
 __Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__  
@@ -72,7 +72,7 @@ __Laurea Triennale in Informatica__
 |Inglese  |Buono       |Discreto   |
 {: .content}
 
-## Conoscenze Informatiche
+## Competenze Informatiche
 
 <div class="row">
   <div class="column" markdown="1">
