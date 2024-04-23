@@ -2,8 +2,8 @@
 layout: cv
 title: Leonardo Ciman
 ---
-![foto profilo](/cv_35x45mm.jpg)
-# Leonardo Ciman
+<h1>Leonardo Ciman</h1>
+<img src="/markdown-cv/cv_35x45mm.jpg" class="profile-photo"/>
 
 <div id="webaddress">
 <a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
