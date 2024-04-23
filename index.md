@@ -2,19 +2,15 @@
 layout: cv
 title: Leonardo Ciman
 ---
-<div class="row">
-  <div class="column" markdown="1">
-    # Leonardo Ciman
-    <div id="webaddress">
-    <a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
-    </div>    
-    - Indirizzo: Via Cengio 39, Vicenza 36100 (VI)
-    - Data di nascita: 28 Giugno 1982    
-  </div>
-  <div class="column" markdown="1">
-    ![foto profilo](/cv_35x45mm.jpg)
-  </div>
-</div>
+# Leonardo Ciman
+![foto profilo](/cv_35x45mm.jpg)
+
+<div id="webaddress">
+<a href="leonardo.ciman@gmail.com">leonardo.ciman@gmail.com</a>
+</div>    
+- Indirizzo: Via Cengio 39, Vicenza 36100 (VI)
+- Data di nascita: 28 Giugno 1982    
+  
 
 ## Esperienza Professionale
 
