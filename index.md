@@ -64,12 +64,12 @@ __Laurea Triennale in Informatica__
 - Tesi: Progettazione e sviluppo di web-services con Apache Axis.
 
 
-## Lingue
+## Conoscenze Linguistiche
 
-|        |           |
-|--------|-----------|
-|Italiano|Madrelingua|
-|Inglese|Buono|
+|Lingua  |Scritto    | Parlato|
+|--------|-----------|--------|
+|__Italiano__|Madrelingua|Madrelingua|
+|__Inglese__|Buono|Discreto|
 {: .content}
 
 ## Conoscenze Informatiche
@@ -115,11 +115,11 @@ __Laurea Triennale in Informatica__
 </div>
 
 ## Interessi
-Sono un amante degli sport. Pratico trail-running, snowboard e trekking ...
 
-I enjoy team sports. I love all mountain sports: snowboarding, trekking, skiing . . .
-The amazing landscapes encounterd during my mountain trips prompted me to take up photography. I’m
-currently attending a photography course to improve my skills.
+Sono un amante degli sport. Pratico trail-running, snowboard e basket.  
+Seppur non esperto sono un appassionato di fotografia.  
+Nel tempo libero mi diletto con alcuni piccoli progetti di elettronica con  
+l'utilizzo di schede come Raspberry Pi, Arduino o Espressif. 
 
 <!-- ### Footer Last updated: May 2024 -->
 
