@@ -19,7 +19,7 @@ title: Leonardo Ciman
 
 ## Esperienza Professionale
 
-`da Giugno 2010`
+`da Giu 2010`
 __Satelicom s.r.l. (ex AMA Applicazioni Mobili Avanzate s.r.l.), Vicenza__  
 L'azienda è specializzata nell’ambito di sistemi ICT con particolare attenzione alla  
 geo-localizzazione coprendo l’intero spettro dello sviluppo di un dispositivo: hardware,  
@@ -32,17 +32,17 @@ e l’utilizzo di web-service.
 Per necessità aziendali interne ho sviluppato vari script per l’automazione di processi e la  
 creazione di report e statistiche principalmente tramite powershell e python.  
 
-`Luglio - Settembre 2008`
+`Lug - Set 2008`
 __Glaxo Smith Kline, Verona__  
 Stage con l’obiettivo di creare un set di test automatici (tramite Quick Test Professional)  
 per la verifica di un software sviluppato internamente.
 
-`Febbraio - Marzo 2005`
+`Feb - Mar 2005`
 __Intesys s.r.l. , Verona__  
 Contratto a progetto per lo sviluppo di un webservice in ambito ospedaliero tramite  
 l’utilizzo del framework Apache Axis.
 
-`Luglio - Ottobre 2004`
+`Lug - Ott 2004`
 __Intesys s.r.l. , Verona__
 Stage come programmatore Java.
 
@@ -54,7 +54,7 @@ __Laurea Magistrale in Informatica__
 - Tesi: Sviluppo e progettazione di una piattaforma per
 l'emulazione di protocolli di sicurezza.
 
-`Maggio - Novembre 2006`
+`Mag - Nov 2006`
 __IELTS English Course__
 - Castle Schoool of English(Brighton, Inghilterra)
 
@@ -66,11 +66,9 @@ __Laurea Triennale in Informatica__
 
 ## Lingue
 
-`Italiano`
-Madrelingua
-
-`Inglese`
-Buono
+|Italiano|Madrelingua|
+|Inglese|Buono|
+{: .content}
 
 ## Conoscenze Informatiche
 
