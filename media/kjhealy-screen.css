@@ -202,7 +202,7 @@ th{
 }
 
 td{
-	padding-right: 5px;
+	padding-right: 10px;
 }
 
 .content{
@@ -220,12 +220,12 @@ td{
 
 .column {
 	flex: 50%;
-	padding: 5px;
 }
 
 .column h1{
 	width: auto;
 	position: static;
+	margin-bottom: 20px;
 }
 
 .column ul {
@@ -233,6 +233,15 @@ td{
 	width: auto;
 	margin: 2px;
 }
+
+.column ul li {
+	line-height: 2em;
+}
+
+.column img {
+	margin-left: 50px;
+}
+
 
 /*
 @media only screen and (max-width: 480px) {
